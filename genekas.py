@@ -20,8 +20,7 @@ def main():
     else:
         sys.exit("Missing input")
 
-    varb = f'https://api.sonapi.ee/v2/{inp}'
-    response = requests.get(varb)
+    response = requests.get(f'https://api.sonapi.ee/v2/{inp}')
     
     if response.status_code in (400, 404, 500):
         messages = {
@@ -49,8 +48,7 @@ def main():
         "Asesõna": "Pronoun",
         "Arvsõna": "Numeral"
     }
-    p = p.split(' ', 1)[0]
-    p = p.replace(',', '')
+    p = p.split(' ', 1)[0].replace(',', '')
     p_eng = p_eng_map.get(p, "")
 
     filepath = os.path.expanduser(f"~/Documents/Projects/Coding/Genekas/{inp}.txt")
@@ -114,15 +112,13 @@ def main():
             eng_def = get_translation(meaning['definition'])
             f.write(f"{est_def}\n🇬🇧 **{i + 1}.** {eng_def}\n")
             print(f"{est_def}\n🇬🇧 **{i + 1}.** {eng_def}")
-            examples = meaning.get('examples', [])
-            all_examples.extend(examples)
+            all_examples.extend(meaning.get('examples', []))
 
         if all_examples:
             f.write("\n**Näited/Examples:**\n")
             print("\n**Näited/Examples:**")
             for example in all_examples:
-                translation = get_translation(example)
-                ex_line = f"● {example} ||{translation}||"
+                ex_line = f"● {example} ||{get_translation(example)}||"
                 f.write(ex_line + "\n")
                 print(ex_line)
 
