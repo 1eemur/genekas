@@ -75,7 +75,7 @@ def main():
             )
             f.write(f"*{verb_str}*\n")
             print(f"*{verb_str}*\n")
-        
+
         
         elif p == "Tegusõna":
             verb_forms_dict = {
@@ -107,12 +107,15 @@ def main():
         print("**Tähendused/Meanings:**")
         meanings = data['searchResult'][0].get('meanings', [])
         all_examples = []
+        eng_def = ""
         for i, meaning in enumerate(meanings):
             est_def = f"🇪🇪 **{i + 1}.** {meaning['definition']}"
-            eng_def = get_translation(meaning['definition'])
-            f.write(f"{est_def}\n🇬🇧 **{i + 1}.** {eng_def}\n")
-            print(f"{est_def}\n🇬🇧 **{i + 1}.** {eng_def}")
+            eng_def += f"🇬🇧 **{i + 1}.** {get_translation(meaning['definition'])}\n" 
+            f.write(f"{est_def}\n")
+            print(f"{est_def}\n")
             all_examples.extend(meaning.get('examples', []))
+        f.write(f"{eng_def}\n")
+        print(eng_def)
 
         if all_examples:
             f.write("\n**Näited/Examples:**\n")
