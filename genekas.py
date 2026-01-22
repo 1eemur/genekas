@@ -114,7 +114,7 @@ def main():
             f.write(f"{est_def}\n")
             print(f"{est_def}\n")
             all_examples.extend(meaning.get('examples', []))
-        f.write(f"{eng_def}\n")
+        f.write(f"{eng_def}")
         print(eng_def)
 
         if all_examples:
@@ -128,10 +128,10 @@ def main():
         f.write("\n**Sünonüümid/Synonyms:** \n#\n")
         print("**Sünonüümid/Synonyms:** \n#\n")
 
-        sonaveeb_url = f"https://sonaveeb.ee/search/unif/dlall/dsall/{urllib.parse.quote(w)}/1/est\n"
+        sonaveeb_url = f"<https://sonaveeb.ee/search/unif/dlall/dsall/{urllib.parse.quote(w)}/1/est>\n"
         f.write("\n**Sõnaveeb:**\n" + sonaveeb_url)
         print("**Sõnaveeb:**\n" + sonaveeb_url)
-        f.write("\nPalun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lause, tehke seda #wotd_writing.")
+        f.write("\nPalun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lauset, tehke seda #wotd_writing.")
 
 if __name__ == "__main__":
     main()
