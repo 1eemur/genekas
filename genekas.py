@@ -51,7 +51,9 @@ def main():
     p = p.split(' ', 1)[0].replace(',', '')
     p_eng = p_eng_map.get(p, "")
 
-    filepath = os.path.expanduser(f"~/Documents/Projects/Coding/Genekas/{inp}.txt")
+    
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    filepath = os.path.join(script_dir, f"{inp}.txt")
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(f"\n**Tänane WOTD**\n{w.capitalize()} - {p.capitalize()}{p_eng}\n")
         print(f"\n**Tänane WOTD**\n{w.capitalize()} - {p.capitalize()}{p_eng}")
