@@ -53,6 +53,14 @@ def main():
 
     
     script_dir = os.path.dirname(os.path.abspath(__file__))
+
+    # Check if word has already been used
+    word_list_path = os.path.join(script_dir, "arhiiv", "0_word_list.txt")
+    if os.path.exists(word_list_path):
+        used_words = {line.strip().lower() for line in open(word_list_path, encoding='utf-8') if line.strip()}
+        if w.lower() in used_words:
+            sys.exit(f"'{w.capitalize()}' on juba kasutatud! / '{w.capitalize()}' has already been used!")
+
     filepath = os.path.join(script_dir, f"{inp}.txt")
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(f"\n**Tänane WOTD**\n{w.capitalize()} - {p.capitalize()}{p_eng}\n")
@@ -140,6 +148,12 @@ def main():
     os.makedirs(arhiiv_dir, exist_ok=True)
     word_list_path = os.path.join(arhiiv_dir, "0_word_list.txt")
     with open(word_list_path, 'a', encoding='utf-8') as wl:
+        # If the file exists and doesn't end with a newline, add one first
+        if os.path.exists(word_list_path) and os.path.getsize(word_list_path) > 0:
+            with open(word_list_path, 'rb') as check:
+                check.seek(-1, os.SEEK_END)
+                if check.read(1) != b'\n':
+                    wl.write("\n")
         wl.write(w.capitalize() + "\n")
     print(f"\n→ Added '{w.capitalize()}' to arhiiv/0_word_list.txt")
 
