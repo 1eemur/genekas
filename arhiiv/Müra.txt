@@ -1,0 +1,23 @@
+**Tänane WOTD**
+Müra - Nimisõna/Noun
+*müra, müra, müra; mürad, mürade, mürasid*
+
+**Tähendused/Meanings:**
+🇪🇪 **1.** (vali) heli või helide korrapäratu segu, mis nt häirib tööd ja puhkust või segab millegi kuul(a)mist
+🇪🇪 **2.** (juhusliku, eesmärgipäratu või moonutava, segava info kohta)
+🇪🇪 **3.** (akustikas, raadiotehnikas:) soovimatu häire sidesüsteemis, mis võib moonutada vastuvõetavates signaalides sisalduvat infot
+🇬🇧 **1.** (loud) noise, a sound or an irregular mixture of sounds that, for example, disturbs work and rest or interferes with hearing something
+🇬🇧 **2.** (about random, purposeless or distorting, confusing information)
+🇬🇧 **3.** (in acoustics, radio engineering) an unwanted disturbance in a communication system that can distort the information contained in the received signals
+
+**Näited/Examples:**
+● Robotniiduk ei tekita müra. ||The robotic lawnmower doesn't make noise.||
+● Kõrvulukustav müra. ||A deafening noise.||
+● Elanik kuulis kõrvalkorteris kahtlast müra. ||The resident heard a suspicious noise in the apartment next door.||
+● Pidev autode müra võib osutuda väsitavaks. ||Constant car noise can be tiring.||
+● Sõiduautode suurenenud vool lisab linnas müra ja saastet. ||The increased flow of cars adds to urban noise and pollution.||
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/müra/1
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lause, tehke seda #wotd_writing.

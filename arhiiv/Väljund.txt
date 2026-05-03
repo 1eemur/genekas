@@ -1,0 +1,25 @@
+**Tänane WOTD**
+Väljund - Nimisõna/Noun
+*väljund, väljundi, väljundit; väljundid, väljundite, väljundeid*
+
+**Tähendused/Meanings:**
+🇪🇪 **1.** miski, mida mingist süsteemist või protsessist välja, kätte antakse või kuhugi, kellelegi suunatakse, millegi tulemus (nt toodetud kaubad, edastatav info, müüdav teenus)
+🇪🇪 **2.** koht (või sihtrühm), kuhu (või kellele) miski suunatakse
+🇪🇪 **3.** koht või seade, kus energia vms väljub mingist süsteemist
+🇪🇪 **4.** info, mida edastatakse infotöötlussüsteemist väljapoole; 
+🇬🇧 **1.** output, something that is taken out of a system or process, delivered or directed somewhere, to someone, the result of something (e.g. manufactured goods, transmitted information, sold service)
+🇬🇧 **2.** the place (or audience) to which (or to whom) something is directed
+🇬🇧 **3.** a place or device where energy etc. exits a system
+🇬🇧 **4.** information that is transmitted outside the information processing system
+
+**Näited/Examples:**
+● Praktilise väljundiga kursus. ||A course with practical output.||
+● Teadustöö väljund on artikkel. ||The output of research work is an article.||
+● Kampaania peamiseks väljundiks oli sotsiaalne meedia. ||The main output of the campaign was social media.||
+● Alustava ettevõtja esimene väljund on siseturg. ||The first output of a start-up entrepreneur is the domestic market.||
+● Uuemad sülearvutid on varustatud HDMI väljundiga. ||Newer laptops are equipped with HDMI output.||
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/väljund/1
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lause, tehke seda #wotd_writing.

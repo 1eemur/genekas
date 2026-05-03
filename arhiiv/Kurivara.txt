@@ -1,0 +1,25 @@
+**Tänane WOTD**
+Kurivara - Nimisõna/Noun
+*kurivara, kurivara, kurivara; kurivarad, kurivarade, kurivarasid*
+
+**Tähendused/Meanings:**
+🇪🇪 **1.** tarkvara, mida kasutatakse ilma omaniku teadmata tema arvutisse tungimiseks või selle kahjustamiseks
+🇬🇧 **1.** malware, software that is used to infiltrate or damage a computer without the owner's knowledge
+
+**Näited/Examples:**
+● Arvuti on nakatunud kurivaraga. ||The computer is infected with malware.||
+● Millist tuge ja võimekust pakub RIA organisatsioonidele kurivara avastamisel? ||What support and capabilities does RIA provide to help organisations detect malware?||
+● Tegu on klassikalise näitega kurivara kasutamisest identiteedivarguse läbiviimiseks. ||This is a classic example of the use of malicious software to carry out identity theft.||
+● Malwarebytes' Anti-Malware( MBAM) on arvutiprogramm, mis otsib ja eemaldab arvutist kurivara. ||Malwarebytes' Anti-Malware( MBAM) is a computer program that scans for and removes malware from your computer.||
+● Igapäev avastatakse erinevatest tarkvaradest mitmeid vigu, mis võimaldavad kurjategijatel paigaldada meie arvutitesse kurivara. ||Every day, a number of bugs are discovered in different software that allow criminals to install malicious software on our computers.||
+
+**Sünonüümid/Synonyms:** 
+pahavara, ründevara, ründetarkvara, õelvara, kahjurvara 
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/kurivara/1
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lause, tehke seda #wotd_writing.
+
+{Reactions}
+🫢

@@ -1,0 +1,19 @@
+**Tänane WOTD**
+Klaviatuur - Nimisõna/Noun
+*klaviatuur, klaviatuuri, klaviatuuri; klaviatuurid, klaviatuuride, klaviatuure/klaviatuurisid*
+
+**Tähendused/Meanings:**
+🇪🇪 **1.** klahvide kogum klahvpillidel, arvutil vms,ese või eseme osa, mille peal on klahvid, mida saab vajutada
+🇬🇧 **1.** keyboard, a set of keys on a keyboard, computer, etc., an object or part of an object that has keys on it that can be pressed
+
+**Näited/Examples:**
+● Tahvelarvutil on sisseehitatud klaviatuur. ||The tablet has a built-in keyboard.||
+● Ekraanile ilmub puutetundlik klaviatuur. ||A touch-sensitive keyboard will appear on the screen.||
+● Ostsin uue juhtmega klaviatuuri ja optilise hiire. ||I bought a new wired keyboard and optical mouse.||
+● Menüüs saab liikuda ja valikuid teha telefoni klaviatuuri abil. ||You can navigate the menu and make selections using the phone's keyboard.||
+● Ilmunud on Vieb 9.4 veebibrauser, mis on optimeeritud klaviatuuri juhtimiseks, kasutades vim tekstiredaktorile omaseid tööpõhimõtteid ja klahvikombinatsioone. ||The Vieb 9.4 web browser has been released, which is optimized for keyboard control using the operating principles and key combinations characteristic of the vim text editor.||
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/klaviatuur/1/est
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lause, tehke seda #wotd_writing.

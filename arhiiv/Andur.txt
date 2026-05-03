@@ -1,0 +1,22 @@
+**Tänane WOTD**
+Andur - Nimisõna/Noun
+*andur, anduri, andurit; andurid, andurite, andureid*
+
+**Tähendused/Meanings:**
+🇪🇪 **1.** seade, mis reageerib mingile välistoimele (nt temperatuurile, rõhule, kiirusele) ja muundab selle elektrisignaaliks, et seda oleks hõlpus mõõta, võimendada vm viisil rakendada (nt automaatseadme käivitamiseks)
+🇬🇧 **1.** sensor, a device that responds to some external action (e.g. temperature, pressure, speed) and converts it into an electrical signal so that it can be easily measured, amplified or otherwise applied (e.g. to start an automatic device)
+
+**Näited/Examples:**
+● Andurid reageerivad liikumisele. ||The sensors react to movement.||
+● Seni selgusetul põhjusel näitas andur ekslikult, et kütust on vähe. ||For reasons as yet unclear, the sensor erroneously indicated that it was low on fuel.||
+● Anduri võib käivitada ka liigne tolm või andurisse pugenud putukas. ||The sensor can also be triggered by excessive dust or an insect crawling into the sensor.||
+● Temperatuuri- ja õhuniiskuse andurid paigaldati pööningule, siseruumi ja õue. ||Temperature and humidity sensors were installed in the attic, indoors and outside.||
+● Turvalisust lisavad autodes ka elektriaknad, mille andurid seiskavad akna, kui laps on näiteks sõrme akna vahele pannud. ||Electric windows in cars also add to the security, the sensors of which stop the window if, for example, a child has put a finger between the window.||
+
+**Sünonüümid/Synonyms:** 
+sensor, tajur 
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/andur/1
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lause, tehke seda #wotd_writing.

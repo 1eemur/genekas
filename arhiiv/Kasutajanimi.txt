@@ -1,0 +1,22 @@
+**Tänane WOTD**
+Kasutajanimi - Nimisõna/Noun
+*kasutajanimi, kasutajanime, kasutajanime; kasutajanimed, kasutajanimede, kasutajanimesid*
+
+**Tähendused/Meanings**
+🇪🇪 (IT) arvutisüsteemile, andmebaasile vm ressursile juurdepääsu tagav nimi 
+🇬🇧 (IT) username, a name giving access to a computer system, database or other resource
+
+**Näited/Examples:**
+● Unikaalne kasutajanimi. ||A unique username.||
+● Anti vigane kasutajanimi või parool. ||An incorrect username or password was given.||
+● Palun sisesta kasutajanimi ja paroolifraas. ||Please enter your username and key passphrase.||
+● Selle saidi jaoks tuleb anda kasutajanimi ja parool. ||You will need to provide a username and password for this site.||
+● Mul on meili kasutajanimi ja ma mõtlesin, et äkki võiksite mulle selle IP aadressi anda või siis selle konto omaniku nime? ||I have the e-mail account name and I was wondering if you'd be able to give me the IP number or the name of the account holder?||
+ 
+**Sünonüümid/Synonyms:** 
+kasutajatunnus
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/kasutajanimi/1
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lause, tehke seda #wotd_writing.

@@ -1,0 +1,22 @@
+**Tänane WOTD**
+Opsüsteem - Nimisõna/Noun
+*opsüsteem, opsüsteemi, opsüsteemi; opsüsteemid, opsüsteemide, opsüsteeme/opsüsteemisid*
+
+**Tähendused/Meanings:**
+🇪🇪 **1.** tarkvara, mis juhib arvuti, telefoni vm seadme talitlust (nt Windows, Android, Linux)
+🇬🇧 **1.** operating system, software that controls the operation of a computer, phone, etc. device (e.g. Windows, Android, Linux)
+
+**Näited/Examples:**
+● Tuum on opsüsteemi põhiline osa. ||The kernel is the core of the operating system.||
+● Arvuti opsüsteem on lootusetult aeglane. ||The computer's operating system is hopelessly slow.||
+● Opsüsteem ei peagi ju avatud koodiga olema. ||An operating system does not have to be open source.||
+● Erinevatele opsüsteemidele on erinevad draiverid. ||There are different drivers for different operating systems.||
+● Probleem polnudki opsüsteemis, vaid riistvaras. ||The problem was not in the operating system, but in the hardware.||
+
+**Sünonüümid/Synonyms:** 
+operatsioonisüsteem
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/opsüsteem/1
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lause, tehke seda #wotd_writing. 💽

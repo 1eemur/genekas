@@ -1,0 +1,24 @@
+**Tänane WOTD**
+Häkker - Nimisõna/Noun
+*häkker, häkkeri, häkkerit; häkkerid, häkkerite, häkkereid*
+
+**Tähendused/Meanings**
+🇪🇪 **1.** lubamatult tegutsev, kaitsesüsteeme muukiv ja viirusi loov arvutiasjatundja  
+🇪🇪 **1.1** oskuslik arvutientusiast  
+🇬🇧 **1.** hacker, an unauthorised computer expert who tampers with defenses and creates viruses
+🇬🇧 **1.1** a skilled computer enthusiast 
+
+**Näited/Examples:**
+● Häkkerid ründasid ministeeriumi veebilehekülge. ||Hackers attacked the ministry's website.||
+● Häkkerid kopeerisid tuhande panga kliendi pangakaardi andmed. ||Hackers copied the bank card details of a thousand bank customers.||
+● Häkkerid kasutavad tööriistu, mis automaatselt otsivad veebisaitide turvaauke. ||Hackers use tools that automatically scan websites for security exploits.||
+● Tõhus tulemüüritarkvara kaitseb arvutit viiruste, häkkerite ja muude hädade eest. ||Effective firewall software protects your computer from viruses, hackers and other troubles.||
+● Häkkerid tunnevad tavaliselt palju programmeerimiskeeli ja neid huvitab arvuti siseelu. ||Hackers usually know a lot of programming languages and are interested in the inner workings of computers.||
+
+**Hääldus/Pronunciation:**
+<https://forvo.com/word/h%C3%A4kker/#et>
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/h%C3%A4kker/1
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lause, tehke seda #wotd_writing.

@@ -1,0 +1,22 @@
+**Tänane WOTD**
+Vooluring - Nimisõna/Noun
+*vooluring, vooluringi, vooluringi; vooluringid, vooluringide, vooluringe/vooluringisid*
+
+**Tähendused/Meanings:**
+🇪🇪 **1.** elektrivoolu suletud liikumistee, kinnine elektriahel,kinnine elektriahel
+🇬🇧 **1.** circuit, closed path of electric current, closed electric circuit
+
+**Näited/Examples:**
+● Lüliti ülesandeks on avada või sulgeda vooluringi. ||The switch is used to open or close the circuit.||
+● Juhtmeid kasutatakse vooluringi osade ühendamiseks. ||Wires are used to connect the parts of the circuit.||
+● Lüliti võimaldab vajadusel sulgeda või avada vooluringi. ||The switch allows you to close or open a circuit if necessary.||
+● Pomm ei oleks niikuinii plahvatanud, sest jätsin vooluringis ühe ühenduse tegemata. ||The bomb wouldn't have exploded anyway, because I left one connection in the circuit undone.||
+● Vooluallikas ja neli takistit on ühendatud vooluringi vastavalt juuresolevale skeemile. ||The power source and four resistors are connected to the circuit according to the diagram below.||
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/vooluring/1/est
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lause, tehke seda #wotd_writing.
+
+{Reactions}
+😄 (2)

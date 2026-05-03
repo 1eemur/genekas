@@ -1,0 +1,28 @@
+**Tänane WOTD**
+Parool - Nimisõna/Noun
+*parool, parooli, parooli; paroolid, paroolide, paroole/paroolisid*
+*Lühike Sisseütlev: parooli*
+
+**Tähendused/Meanings**
+🇪🇪 **1.** salajane sõna või väljend, mille abil saab tuvastada isikut (nt konkurssidel hindajate erapooletuse tagamiseks, teatavasse kohta pääsuks)  
+🇪🇪 **1.1** (arvutisüsteemis:) turvalisust tagav sõna vm märgijada, mis lubab süsteemi siseneda  
+🇬🇧 **1.** password, passphrase, a secret word or phrase that can be used to identify a person (e.g. to ensure the impartiality of assessors in competitions, to get into a certain place)
+🇬🇧 **1.1** (in a computer system) password, key, a security word or other token that allows access to a system
+
+**Näited/Examples:**
+● Tunnimees, mis on parool? ||Sentry, what's the password? ||
+● Autentimine nurjus. Kontrolli oma kasutajanime ja parooli. ||Authentication failed. Check your username and password.||
+● Ta parool on viiendast klassist saadik "jalka" olnud. ||His password has been "footy[football]" since the fifth grade.||
+● Rakenduse kasutamiseks on vaja isiklikku kasutajatunnust ja parooli. ||Use of the application shall require a personal user identification and password.||
+● Sarah, kasuta mu parooli, et sisenda Kitti süsteemi. ||Sarah, use my password to enter kitt' s system.||
+
+**Sünonüümid/Synonyms:** 
+salasõna
+
+**Hääldus/Pronunciation:**
+https://forvo.com/word/parool/#et
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/parool/1
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lause, tehke seda #wotd_writing.

@@ -1,0 +1,25 @@
+**Tänane WOTD**
+Tehisintellekt - Nimisõna/Noun
+*tehisintellekt, tehisintellekti, tehisintellekti; tehisintellektid, tehisintellektide, tehisintellekte/tehisintellektisid*
+*Lühike Sisseütlev: tehisintellekti*
+
+**Tähendused/Meanings**
+🇪🇪 **1.** tarkvara või isekäituv seade, mis suudab konkreetse ülesande lahendamiseks tunnetada väliseid sündmusi ja neile eesmärgipäraselt reageerida (nt mängida malet, tõlkida ühest keelest teise); arvuti suutlikkus jäljendada inimmõistust  
+🇪🇪 **2.** infotehnoloogia haru, mis tegeleb arvuti suutlikkusega jäljendada inimmõistust  
+🇬🇧 **1.** artificial intelligence, software or a self-aware device that can sense and respond to external events in order to perform a specific task (e.g. play chess, translate from one language to another); the ability of a computer to mimic human reasoning
+🇬🇧 **2.** a branch of computer science concerned with the ability of a computer to imitate human reasoning
+
+**Näited/Examples:**
+● Muret tuleks tunda tehisintellekti sõjalise arendamise pärast. ||There should be concern about AI's military development.||
+● Kiirmales võrdles võimeid kaheksa tehisintellekti. ||Eight artificial intelligences compared their capabilities in speed chess.||
+● Filmi mütoloogias leiutati tehisintellekt 21. sajandi algul. ||In the film's mythology, artificial intelligence was invented at the start of the 21st century.||
+● Tänapäeval ei kontrolli riik vabas maailmas tehisintellekti arengut. ||Today, in the free world, the state does not control the development of AI.||
+● Masina tehisintellekt tabas ära võõra sissetungi ja andis häiret. ||The machine's artificial intelligence picked up the foreign intrusion and sounded an alarm.||
+
+**Hääldus/Pronunciation:**
+<https://forvo.com/word/tehisintellekt/#et>
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/tehisintellekt/1
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lause, tehke seda #wotd_writing. 🤖

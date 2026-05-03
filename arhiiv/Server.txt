@@ -1,0 +1,17 @@
+**Tänane WOTD**
+Server - Nimisõna/Noun
+*server, serveri, serverit; serverid, serverite, servereid*
+
+**Tähendused/Meanings**
+🇪🇪 arvutivõrgu seade, mis kooskõlastab ja juhib võrgu personaalarvutite tööd 
+🇬🇧 server, a computer or computer program which manages access to a centralized resource or service in a network
+
+**Näited/Examples:**
+● Kes veel teie serverit kasutab? ||Who else is using your server?||
+● Täielikud serveri tõrked on haruldased. ||Complete server failures are rare.||
+● Laadisin oma videofailid serverisse üles. ||I uploaded my video files to the server.||
+● Need serverid saadavad pidevalt rämpskirju. ||These servers constantly receive junk emails.||
+● Renditud serveri teenuse eest raha ei tagastata. ||There are no refunds for the rented server service.||
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/server/1

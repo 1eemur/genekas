@@ -135,6 +135,14 @@ def main():
         print("**Sõnaveeb:**\n" + sonaveeb_url)
         f.write("\nPalun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lauset, tehke seda #wotd_writing.")
 
+    # Append the word to the archive word list
+    arhiiv_dir = os.path.join(script_dir, "arhiiv")
+    os.makedirs(arhiiv_dir, exist_ok=True)
+    word_list_path = os.path.join(arhiiv_dir, "0_word_list.txt")
+    with open(word_list_path, 'a', encoding='utf-8') as wl:
+        wl.write(w.capitalize() + "\n")
+    print(f"\n→ Added '{w.capitalize()}' to arhiiv/0_word_list.txt")
+
 if __name__ == "__main__":
     main()
 

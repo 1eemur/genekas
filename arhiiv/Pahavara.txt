@@ -1,0 +1,18 @@
+**Tänane WOTD**
+Pahavara - Nimisõna/Noun
+*pahavara, pahavara, pahavara; pahavarad, pahavarade, pahavarasid*
+
+**Tähendused/Meanings:**
+🇪🇪 **1.** tarkvara, mida kasutatakse ilma omaniku teadmata tema arvutisse tungimiseks või selle kahjustamiseks
+🇬🇧 **1.** malware,  software used without the owner's knowledge to hack into or damage their computer
+
+**Näited/Examples:**
+● Pahavaraga nakatatud arvuti. ||A computer infected with malware.||
+● Aeglase arvuti põhjus ei ole alati pahavara. ||The cause of a slow computer is not always malware.||
+● Ettevõte võrku ei tohi sattuda pahavara. ||Malware must not be allowed to enter the company network.||
+● Riikide loodud pahavara hulk kasvab ägeda tempoga. ||The amount of malware created by countries is growing at a rapid pace.||
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/pahavara/1/est
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lause, tehke seda #wotd_writing.

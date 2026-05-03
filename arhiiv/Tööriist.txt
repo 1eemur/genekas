@@ -1,0 +1,24 @@
+**Tänane WOTD**
+Tööriist - Nimisõna/Noun
+*tööriist, tööriista, tööriista; tööriistad, tööriistade, tööriistu/tööriistasid*
+
+**Tähendused/Meanings:**
+🇪🇪 **1.** hrl käes hoitav (mehhaniseeritud) töötegemise vahend mingiks eriotstarbeks
+🇪🇪 **2.** (üldisemalt:) kellegi kasutada olev vahend millegi saavutamiseks
+🇪🇪 **3.** tarkvaravahend (nt väike programm) millegi muutmiseks, lisamiseks vm ülesande täitmiseks
+🇬🇧 **1.** tool, usually a hand-held (mechanized) means of doing work for some special purpose
+🇬🇧 **2.** (in general) a tool used by someone to achieve something
+🇬🇧 **3.** a software tool (e.g. a small program) to change something, add something, etc. to perform a task
+
+**Näited/Examples:**
+● Torumehel oli kaasas kohvritäis tööriistu. ||The plumber had a trunk full of tools with him.||
+● Elektritööriist. ||Power tool.||
+● Ministeerium on riigi tööriist. ||The ministry is a tool of the state.||
+● Inimene on Jumala tööriist. ||Man is God's instrument.||
+● XForms on graafilise kasutajaliidese tööriist. ||XForms is a graphical user interface tool.||
+● Eesmärk oli muuta nutirakendus veel praktilisemaks tööriistaks. ||The goal was to turn the smart app into an even more practical tool.||
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/t%C3%B6%C3%B6riist/1
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lause, tehke seda #wotd_writing.

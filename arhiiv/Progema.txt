@@ -1,0 +1,19 @@
+**Tänane WOTD**
+Progema - Tegusõna/Verb
+*Progema, Progeda; Progeb, Proges; Progenud, Progetud*
+
+**Tähendused/Meanings:**
+🇪🇪 **1.** arvuti, arvutisüsteemi või mingi seadme juhtimiseks ja andmete töötluseks käskude järjendeid ehk lähtekoodi kirjutama, testima, siluma ja haldama
+🇬🇧 **1.** (colloquial) to program, to code, to write, test, debug and manage sequences of commands or source code for controlling a computer, computer system or some device and processing data
+
+**Näited/Examples:**
+● Inimest ei saa progeda nagu arvutit. ||You can't program a human being like a computer.||
+● Kas keegi on läbi arvuti progenud saatjat? ||Has anybody programmed the transmitter via a computer?||
+● Ei viitsi hakata kuumal päeval jälle miskit progema. ||I can't be bothered to start programming something again on a hot day.||
+● Vaja on inimesi, kes oskavad ja viitsivad progeda. ||There is a need for people who know how to program and who are willing to program.||
+● Oleks paar päeva vaba aega, siis võiks ju progeda ühe korraliku eestikeelse päevikutarkvara. ||If you had a few days of free time, you could program a decent diary software in Estonian.||
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/progema/1
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lause, tehke seda #wotd_writing. 🧑‍💻

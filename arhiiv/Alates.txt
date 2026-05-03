@@ -1,0 +1,22 @@
+**Tänane WOTD**
+Alates - Preposition/Postpositsioon
+
+**Tähendused/Meanings:**
+🇪🇪 **1.** (ajaliselt:) algusega mingist ajast, mingist kuupäevast peale,osutab, mis ajast mingi tegevus algab
+🇪🇪 **2.** (suuruse, taseme vms kohta:) osutab kõige väiksemat numbrilist väärtust, millest millegi rakendumine, paikapidavus vms algab
+🇪🇪 **3.** (loetelu kohta:) alustades mingist üksusest, rühmast,osutab, kellest või millest mingi loetelu algab
+🇬🇧 **1.** (temporal) starting from some time, from some date, indicates from what time an activity starts
+🇬🇧 **2.** (size, level, etc.) indicates the smallest numerical value from which the implementation, validity, etc. of something starts
+🇬🇧 **3.** (about a list) starting from some unit, group, indicates from whom or from what a list starts
+
+**Näited/Examples:**
+● Hinnad kehtivad alates 1. oktoobrist 2016. ||Prices are valid from October 1, 2016.||
+● Olen puhkusel alates 1. juulist. ||I'm on vacation from July 1st.||
+● Kella ühest alates võib lõunale minna. ||From one o'clock you can go to lunch.||
+● Suuremate tellimuste korral (alates 10 kilogrammist) toimetame maasikad ka koju kätte. ||For larger orders (at least 10 kilograms), we also deliver the strawberries home.||
+● Ujumine sobib kõigile alates lastest ja lõpetades pensionäridega. ||Swimming is suitable for everyone from children to pensioners.||
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/alates/1/est
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lause, tehke seda #wotd_writing.

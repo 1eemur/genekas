@@ -1,0 +1,22 @@
+**Tänane WOTD**
+Viirus - Nimisõna/Noun
+*viirus, viiruse, viirust; viirused, viiruste, viiruseid*
+
+**Tähendused/Meanings:**
+🇪🇪 **1.** üliväike haigusetekitaja, rakulise ehituseta objekt, mis paljuneb ainult elusrakkudes,väga väike elus asi, mis tekitab (nakkus)haigusi inimestel, loomadel ja taimedel
+🇪🇪 **2.** tarkvara ja andmeid hävitav või andmetöötlust häiriv väike programm, mis end arvutisüsteemides ise paljundab,spetsiaalne programm, mis põhjustab arvutis vigu ja hävitab andmeid
+🇬🇧 **1.** virus, extremely small pathogen, non-cellular object that reproduces only in living cells, very small living thing that causes (infectious) diseases in humans, animals and plants
+🇬🇧 **2.** virus, a small program that destroys software and data or interferes with data processing, which reproduces itself in computer systems, a special program that causes errors in a computer and destroys data
+
+**Näited/Examples:**
+● Kopsupõletikku võivad tekitada nii bakterid, seened kui viirused. ||Pneumonia can be caused by bacteria, fungi and viruses.||
+● Kogu pandeemia vältel levisid rohked vandenõuteooriad kurja viiruse päritolu kohta. ||Conspiracy theories about the origin of the evil virus abounded throughout the pandemic.||
+● Kui viirus ikka veel naabruskonnas möllab, suureneb ka viiruse muteerumise tõenäosus. ||If the virus is still running rampant in the neighborhood, the likelihood of the virus mutating also increases.||
+● Arvutis möllab viirus. ||A virus is raging on the computer.||
+● Nutiseadmetesse püüavad teed leida üha kavalamad viirused ja pahavarad. ||More and more cunning viruses and malware are trying to find their way into smart devices.||
+● Arvutis on viirus. ||There is a virus on the computer.||
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/viirus/1/est
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lauset, tehke seda #wotd_writing.

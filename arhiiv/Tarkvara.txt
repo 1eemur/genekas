@@ -1,0 +1,19 @@
+**Tänane WOTD**
+Tarkvara - Nimisõna/Noun
+*tarkvara, tarkvara, tarkvara; tarkvarad, tarkvarade, tarkvarasid*
+
+**Tähendused/Meanings:**
+🇪🇪 **1.** infotöötlussüsteemi programmid, protseduurid, reeglid ja nendega seotud dokumentatsioon
+🇬🇧 **1.** software, information processing system programs, procedures, rules and related documentation
+
+**Näited/Examples:**
+● Firma arvutites oli illegaalne tarkvara. ||The company's computers had illegal software.||
+● Nutitelefoni tarkvara tuleb aeg-ajalt uuendada. ||Smartphone software needs to be updated from time to time.||
+● Märtsis jõudis kasutajateni eestikeelne tarkvara. ||In March, the Estonian version of the software reached users.||
+● Tarkvara installeeritakse laboris asuvatesse arvutitesse. ||The software will be installed on computers in the lab.||
+● Tahvli tarkvara on suhteliselt tagasihoidlike võimalustega. ||The software on the tablet has relatively modest capabilities.||
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/tarkvara/1
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lause, tehke seda #wotd_writing.

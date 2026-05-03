@@ -1,0 +1,21 @@
+**Tänane WOTD**
+Määratlema - Tegusõna/Verb
+*määratlema, määratleda; määratleb, määratles; määratlenud, määratletud*
+
+**Tähendused/Meanings:**
+🇪🇪 **1.** mõiste sisu või sõna tähendust seletama, sõnadega kirjeldama,mõistet seletama,mõiste sisu seletama
+🇪🇪 **2.** kindlaks määrama
+🇬🇧 **1.** to explain the meaning or word of the concept, describe the concept, explain the concept of the concept
+🇬🇧 **2.** to determine
+
+**Näited/Examples:**
+● Kahjuks seadus ei määratle mõistet „mõistlikkuse piir”. ||Unfortunately, the law does not define the term "reasonable limit."||
+● Seaduses tuleb kõik mõisted selgelt määratleda. ||All terms must be clearly defined in the law.||
+● Käesolevas dokumendis määratletakse projekti raamid. ||This document defines the project frameworks.||
+● Kolmas Pierce'i seadus määratleb neutraalse keele tingimused. ||The third Pierce law defines the conditions of the neutral language.||
+● .. merepind on kahemõõtmeline maailm, kus laevakapten määratleb oma asukohta pikkus- ja laiuskraadide abil. ||.. The sea surface is a two-dimensional world where the ship captain defines its location by length and latitudes.||
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/M%C3%A4%C3%A4ratlema/1/est
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lause, tehke seda #wotd_writing.

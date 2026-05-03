@@ -1,0 +1,24 @@
+**Tänane WOTD**
+Elutsükkel - Nimisõna/Noun
+*elutsükkel, elutsükli, elutsüklit; elutsüklid, elutsüklite, elutsükleid*
+
+**Tähendused/Meanings:**
+🇪🇪 **1.** areng organismi mingist elujärgust järglaste sama järguni,selline perioodiliselt korduv osa
+🇪🇪 **2.** (toote vms tarbimisaja kohta)
+🇬🇧 **1.** life cycle, the development of the body from some stage of life to the same stage of offspring
+🇬🇧 **2.** (about the consumption period of the product, etc.)
+
+**Näited/Examples:**
+● Raku elutsükkel. ||Cell life cycle.||
+● Taime elutsükkel. ||The life cycle of the plant.||
+● Toote elutsükkel. ||Product life cycle.||
+● Eesmärk oli kaardistada tervikuna kogu toote elutsükkel. ||The goal was to map the entire product life cycle as a whole.||
+● Ettevõtte eesmärgiks on luua koos klientidega pikaajalise koostöö tulemusena tarkvara kogu elutsüklit hõlmavaid lahendusi. ||The company's goal is to work with customers to create solutions that cover the entire software lifecycle as a result of long-term cooperation.||
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/eluts%C3%BCkkel/1/est
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lauset, tehke seda #wotd_writing.
+
+{Reactions}
+🔄 (2)

@@ -1,0 +1,19 @@
+**Tänane WOTD**
+Bugi - Nimisõna/Noun
+*bugi, bugi, bugi; bugid, bugide, bugisid*
+
+**Tähendused/Meanings:**
+🇪🇪 **1.** (kõnekeelne) programmis, infosüsteemis olev probleem
+🇬🇧 **1.** (colloquial) a problem in the program, information system
+
+**Näited/Examples:**
+● See bugi on parandatud. ||This bug has been fixed.||
+● Võimalik, et tegu on mingi haruldase bugiga. ||It's possible that this is some kind of rare bug.||
+● Leidsin väikse bugi XML metainfo genereerimise osas. ||I found a small bug in XML metadata generation.||
+● Eks tuleb arendajatel seegi väike bugi üles leida. ||It's up to the developers to find that little bug.||
+● Ruuteritest on alati võimalik leida bugi, mis vajab uuendust. ||It is always possible to find a bug in routers that needs an update.||
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/bugi/1
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lause, tehke seda #wotd_writing.

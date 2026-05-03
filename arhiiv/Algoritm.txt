@@ -1,0 +1,23 @@
+**Tänane WOTD**
+Algoritm - Nimisõna/Noun
+*algoritm, algoritmi, algoritmi; algoritmid, algoritmide, algoritme/algoritmisid*
+*Lühike Sisseütlev: algoritmi*
+
+**Tähendused/Meanings**
+🇪🇪 sammsammuline tegevusjuhis, eeskiri mingi tegevuse sooritamiseks või mingit kindlat tüüpi ülesannete lahendmiseks 
+🇬🇧 algorithm, a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer
+
+**Näited/Examples:**
+● Algoritmi puhul on tähtis tegevuste õige järjekord. ||In an algorithm, the correct sequence of actions is important.||
+● Algoritm vajab töötamiseks musta joont valgel taustal. ||The algorithm needs a black line on a white background to work.||
+● Google teeb oma algoritmis muudatusi ja uuendusi iga päev. ||Google makes changes and updates in its algorithm every day.||
+● Otsingu käigus algoritmi kasutatava mälu hulk ei muutu. ||During the search, the amount of memory used by the algorithm does not change.||
+● Otsingumootorid võimaldavad otsida internetist teavet vastavalt spetsiaalsele algoritmile. ||Search engines allow you to search the internet for information according to a specific algorithm.||
+
+**Hääldus/Pronunciation:**
+<https://forvo.com/word/algoritm/#et>
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/algoritm/1
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lause, tehke seda #wotd_writing.

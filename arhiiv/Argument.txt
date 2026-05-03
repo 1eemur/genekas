@@ -1,0 +1,23 @@
+**Tänane WOTD**
+Argument - Nimisõna/Noun
+*argument, argumendi, argumenti; argumendid, argumentide, argumente/argumentisid*
+
+**Tähendused/Meanings:**
+🇪🇪 **1.** põhjendatud seisukoht, väide tõestusvahendina (nt arutluses, väitluses)
+🇪🇪 **2.** sõltumatu muutuja, mille väärtuse määrab funktsioon
+🇪🇪 **3.** (lauseanalüüsis:) seotud laiend
+🇬🇧 **1.** reasoned position, statement as a means of proof (e.g. in discussion, debate)
+🇬🇧 **2.** an independent variable whose value is determined by a function
+🇬🇧 **3.** (in sentence analysis) a related extension
+
+**Näited/Examples:**
+● Võta või jäta – argumendid on veenvad. ||Take it or leave it, the arguments are compelling.||
+● Minu argument on, et .. ||My argument is that..||
+● Neil pole ühtki mõistlikku argumenti. ||They have no reasonable argument.||
+● Lähtuda ei tohiks ainult majanduslikest argumentidest. ||It should not be based only on economic arguments.||
+● Funktsiooni argument. ||Argument of a function.||
+
+**Sõnaveeb:**
+https://sonaveeb.ee/search/unif/dlall/dsall/argument/1
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lause, tehke seda #wotd_writing.
