@@ -1,2 +1,6 @@
-**Genekas**
-Automatically generates Estonian WOTD (Word of The Day) posts. All content sourced from Sõnaveeb. An archive of all previous WOTD posts as well as a full list of selected words can be found in the `arhiiv` folder. Please be aware that a few April 1st WOTD posts with less common/practical words are mixed in.
+## Genekas
+Automatically generates Estonian WOTD (Word of The Day) posts. All content sourced from Sõnaveeb. An archive of all previous WOTD posts as well as a full list of selected words can be found in the `arhiiv` folder. 
+
+**Usage**: `python3 genekas.py [word]`
+
+**N.B.** Please be aware that a few April 1st WOTD posts with less common/practical words are mixed in.
