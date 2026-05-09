@@ -1,1 +1,5 @@
-*.txt
+# Ignore all txt files in the project root
+/*.txt
+
+# But keep txt files inside arhiiv/
+!/arhiiv/*.txt
