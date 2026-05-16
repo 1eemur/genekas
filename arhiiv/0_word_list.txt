@@ -1652,9 +1652,6 @@ Regatt
 Nõudma
 Aine
 Äär
-Kemplema
-Itaalia
-Genekas
 E-post
 Kokku
 Gripp
@@ -1663,3 +1660,4 @@ Looduslik
 Mõjutama
 Noor
 Preemia
+Kemplema
