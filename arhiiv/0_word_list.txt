@@ -1665,3 +1665,10 @@ Auhind
 Kampaanialik
 Naabrivalve
 Kurguvalu
+Kanal
+Lööma
+Omama
+Vastama
+Tänav
+Kurtma
+Naer
