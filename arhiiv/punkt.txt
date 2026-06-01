@@ -1,0 +1,39 @@
+**Tänane WOTD**
+Punkt - Nimisõna/Noun
+*punkt, punkti, punkti; punktid, punktide, punkte/punktisid*
+
+**Tähendused/Meanings:**
+:flag_ee: **1.** täpikujuline graafiline märk
+:flag_ee: **2.** kirjavahemärk (.),(märk .) pannakse näiteks lausete lõppu
+:flag_ee: **3.** (noodikirjas:) märk, mis noodi järel paiknedes pikendab selle vältust poole võrra, noodi kohal või all paiknedes aga märgib staccato't
+:flag_ee: **4.** väike täpina nähtav objekt
+:flag_ee: **5.** geomeetria lihtsaim objekt, millel pole mõõtmeid
+:flag_ee: **6.** arvestus- või hindamisühik nt võistlustel, mängudel, katsetel,mõõtühik mingis hindamise süsteemis
+:flag_ee: **7.** trükinduses kasutatav mittesüsteemne pikkusühik (1 punkt = 0,3759 mm)
+:flag_ee: **8.** dokumendi, teksti vms alajaotus, väike sisult terviklik lõik või (nt tegevuskava) osa,dokumendi lõik, osa
+:flag_ee: **9.** asi, asjaolu, aspekt
+:flag_ee: **10.** (väiksem) koht mingil maa-alal või pinnal,koht, paik
+:flag_ee: **11.** mingi teenuste osutamise koht, teatav (all)asutus
+:flag_gb: **1.** dot-shaped graphic mark
+:flag_gb: **2.** period (.)
+:flag_gb: **3.** (in musical notation) a sign that lengthens its refrain by half
+:flag_gb: **4.** an object visible as a small speck
+:flag_gb: **5.** the simplest object in geometry that has no dimensions
+:flag_gb: **6.** accounting or evaluation unit
+:flag_gb: **7.** non-systematic unit of length used in printing (1 point = 0.3759 mm)
+:flag_gb: **8.** subdivision of a document, text, etc., a small section or (e.g. an action plan) 
+:flag_gb: **9.** thing, circumstance
+:flag_gb: **10.** (smaller) place on some land or surface
+:flag_gb: **11.** some place of service provision, certain (sub)institution
+
+**Näited/Examples:**
+● Lause lõpust on punkt puudu. ||There is a period missing from the end of the sentence.||
+● Iga õige vastus annab punkti. ||Each correct answer gives a point.||
+● Põhikirja punkt 7. ||Clause 7 of the Articles of Association.||
+● Meil on vaja läbi arutada kolm punkti. ||We need to discuss three points.||
+● Suur Munamägi on Eesti kõrgeim punkt. ||Suur Munamägi is the highest point in Estonia.||
+
+**Sõnaveeb:**
+<https://sonaveeb.ee/search/unif/dlall/dsall/punkt/1/est>
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lauset, tehke seda #wotd_writing.

@@ -1672,3 +1672,12 @@ Vastama
 Tänav
 Kurtma
 Naer
+Punkt
+Rahvas
+Paranema
+Piiritlema
+Käekiri
+Parfüüm
+Kingitus
+Püüdma
+Puuduma
