@@ -1690,3 +1690,7 @@ Kõhn
 Uuendus
 Sisse tooma
 Rästik
+Kaart
+Tipp
+Värav
+Tükk
