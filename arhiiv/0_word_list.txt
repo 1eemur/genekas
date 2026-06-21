@@ -1694,3 +1694,13 @@ Kaart
 Tipp
 Värav
 Tükk
+Põlv
+E-kiri
+Üldse
+Lõug
+Vent
+Sõbranna
+Karp
+Ületama
+Otseselt
+Arhiveerima

@@ -1,0 +1,22 @@
+
+**Tänane WOTD**
+Arhiveerima - Tegusõna/Verb
+*arhiveerima, arhiveerida; arhiveerib, arhiveeris; arhiveerinud, arhiveeritud*
+
+**Tähendused/Meanings:**
+🇪🇪 **1.** andmete säilituskoopiat arvutis või serveris talletama
+🇪🇪 **2.** trükiseid arhiivi panema, arhiivi jaoks korrastama
+🇬🇧 **1.** to archive, to save a backup copy of the data on a computer or server
+🇬🇧 **2.** to archive printed materials, organize them for the archive
+
+**Näited/Examples:**
+● Raamatupidamisdokumendid tuleb arhiveerida. ||Accounting documents must be archived.||
+● Varasemate õppeaastate failid on arhiveeritud. ||Files from previous academic years have been archived.||
+● Kogu dokumentatsioon oli arhiveeritud eeskujulikus korras. ||All documentation was archived in an exemplary manner.||
+● Arhiivi lehel on võimalik otsida arhiveeritud aastate päevikuid. ||On the Archive page, you can search the journals of archived years.||
+● Magistritööde käsikirjad on arhiveeritud selles ülikoolis, kus töö kaitsti. ||Manuscripts of master's theses are archived at the university where the work was defended.||
+
+**Sõnaveeb:**
+<https://sonaveeb.ee/search/unif/dlall/dsall/Arhiveerima/1/est>
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lauset, tehke seda #wotd_writing.
