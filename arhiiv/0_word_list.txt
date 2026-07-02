@@ -1704,3 +1704,12 @@ Karp
 Ületama
 Otseselt
 Arhiveerima
+Kuningas
+Kuninganna
+Mäletama
+Telefon
+Ettevõtja
+Lai
+Vend
+Asjalik
+Võrk

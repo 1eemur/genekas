@@ -1,0 +1,40 @@
+
+**Tänane WOTD**
+Võrk - Nimisõna/Noun
+*võrk, võrgu, võrku; võrgud, võrkude, võrke/võrkusid*
+
+**Tähendused/Meanings:**
+:flag_ee: **1.** internetis toimiv ja hüpertekstil põhinev elektrooniliste dokumentide ehk veebisaitide süsteem
+:flag_ee: **2.** (arvutivõrgu jt sidevõrkude kohta)
+:flag_ee: **3.** (elektrivõrgu jt tehnovõrkude kohta)
+:flag_ee: **4.** (omavahel ühendatud teede, nt raudteevõrgu kohta)
+:flag_ee: **5.** seotud, ühte liiki asutuste, rajatiste, organisatsioonide või kontakteeruvate isikute kogum
+:flag_ee: **6.** kootud, sõlmitud, heegeldatud korrapärase augustikuga kangas
+:flag_ee: **7.** võrgulina,sellest valmistatud püünis
+:flag_ee: **8.** tennises, võrk- ja sulgpallis vm väljakut poolitav sellisest kangast ese, üle mille mängitakse palli
+:flag_ee: **9.** sportlik pallimäng erilisel, võrguga poolitatud väljakul kahe võistkonna vahel
+:flag_ee: **10.** mõnede putukate eritatud võrguniitide põiming
+:flag_ee: **11.** lõks, püünis,väljendites osutab lõksupüüdmisele
+:flag_gb: **1.** network, net
+:flag_gb: **2.** (about communication networks)
+:flag_gb: **3.** (about the electricity network)
+:flag_gb: **4.** (for interconnected roads, e.g. railway network)
+:flag_gb: **5.** a collection of related institutions
+:flag_gb: **6.** woven, knotted, crocheted fabric
+:flag_gb: **7.** netting, a trap made of it
+:flag_gb: **8.** sports net, over which the ball is played
+:flag_gb: **9.** volleyball, a sports ball game
+:flag_gb: **10.** an interweaving of web threads secreted by some insects
+:flag_gb: **11.** trap, in expressions refers to trapping
+
+**Näited/Examples:**
+● Mul ei õnnestu võrku sisse logida. ||I can't log in to the network.||
+● Pane pildid võrku üles. ||Post pictures online.||
+● 4G võrk. ||4G network.||
+● Haiglate võrk. ||Network of hospitals.||
+● Igal heal ajakirjanikul on oma informantide võrk. ||Every good journalist has a network of informants.||
+
+**Sõnaveeb:**
+<https://sonaveeb.ee/search/unif/dlall/dsall/V%C3%B5rk/1/est>
+
+Palun öelge mulle, kui mõni tähendus puudub või on vale. Kui soovite kirjutada oma lauset, tehke seda #wotd_writing.
