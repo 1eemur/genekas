@@ -1,17 +1,59 @@
-from deep_translator import GoogleTranslator
+from deep_translator import GoogleTranslator, MyMemoryTranslator
 import requests
 import json
 import urllib.parse
 import sys
 import os
+import time
+
+_MYMEMORY_LOCALE = {
+    "et": "et-EE",
+    "en": "en-GB",
+}
+
+
+def _translate_with_google(text, source, target, retries=3, base_delay=1.5):
+    last_error = None
+    for attempt in range(retries):
+        try:
+            # Small pause before every request (a bit longer on retries) to
+            # avoid firing requests at Google back-to-back, which is what
+            # tends to trigger the empty-response/rate-limit error.
+            time.sleep(0.4 if attempt == 0 else base_delay * (2 ** (attempt - 1)))
+            result = GoogleTranslator(source=source, target=target).translate(text)
+            if result:
+                return result, None
+            last_error = "Empty translation result"
+        except Exception as e:
+            last_error = e
+        print(f"Google translation attempt {attempt + 1}/{retries} failed: {last_error}")
+    return None, last_error
+
+
+def _translate_with_mymemory(text, source, target):
+    mm_source = _MYMEMORY_LOCALE.get(source, source)
+    mm_target = _MYMEMORY_LOCALE.get(target, target)
+    try:
+        result = MyMemoryTranslator(source=mm_source, target=mm_target).translate(text)
+        if result:
+            return result, None
+        return None, "Empty translation result"
+    except Exception as e:
+        return None, e
 
 
 def get_translation(text, source="et", target="en"):
-    try:
-        return GoogleTranslator(source=source, target=target).translate(text)
-    except Exception as e:
-        print(f"Translation error: {e}")
-        return text
+    result, error = _translate_with_google(text, source, target)
+    if result:
+        return result
+
+    print(f"GoogleTranslator failed after retries ({error}); trying MyMemoryTranslator...")
+    result, mm_error = _translate_with_mymemory(text, source, target)
+    if result:
+        return result
+
+    print(f"MyMemoryTranslator also failed ({mm_error}); falling back to original text.")
+    return text
 
 
 def main():
@@ -159,4 +201,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
