@@ -6,6 +6,9 @@ import sys
 import os
 import time
 
+# MyMemoryTranslator wants full locale codes (e.g. 'et-EE'), not the short
+# codes GoogleTranslator uses ('et'). Map the short codes this script uses
+# to their MyMemory equivalents.
 _MYMEMORY_LOCALE = {
     "et": "et-EE",
     "en": "en-GB",
@@ -43,16 +46,16 @@ def _translate_with_mymemory(text, source, target):
 
 
 def get_translation(text, source="et", target="en"):
-    result, error = _translate_with_google(text, source, target)
-    if result:
-        return result
-
-    print(f"GoogleTranslator failed after retries ({error}); trying MyMemoryTranslator...")
     result, mm_error = _translate_with_mymemory(text, source, target)
     if result:
         return result
 
-    print(f"MyMemoryTranslator also failed ({mm_error}); falling back to original text.")
+    print(f"MyMemoryTranslator failed ({mm_error}); trying GoogleTranslator...")
+    result, error = _translate_with_google(text, source, target)
+    if result:
+        return result
+
+    print(f"GoogleTranslator also failed after retries ({error}); falling back to original text.")
     return text
 
 
